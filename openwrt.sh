@@ -1597,8 +1597,8 @@ other_plugins() {
 
 #中部
 cat >/tmp/other-plugins.txt <<EOF
-	luci-app-dockerman	https://github.com/lisaac/luci-app-dockerman.git
-	luci-app-mosdns		https://github.com/sbwml/luci-app-mosdns.git
+	# luci-app-dockerman	https://github.com/lisaac/luci-app-dockerman.git
+	# luci-app-mosdns		https://github.com/sbwml/luci-app-mosdns.git
 	luci-app-serverchan	https://github.com/tty228/luci-app-serverchan.git
 	luci-app-adguardhome1	https://github.com/kongfl888/luci-app-adguardhome.git
 	luci-app-godproxy	https://github.com/project-lede/luci-app-godproxy.git
